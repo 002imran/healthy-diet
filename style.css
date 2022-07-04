@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.orange{
+    color: rgb(181, 123, 16);
+}
+.hero{
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    
+    
+}
+.half-hero {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-hero img {
+    width: 80%;
+    
+
+
+}
+.button_work{
+    margin-top: 45px;
+}
+.button{
+    background-color: rgb(240, 174, 51);
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 15px 30px;
+    
+}
