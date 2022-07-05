@@ -135,3 +135,36 @@ h3{
 
 }
 /* ********card section end**** */
+.social-media-container{
+    margin: 80px 40px 30px 45px;
+    border-radius: 60px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.social-media{
+    display: flex;
+    width: 100%;
+    margin: 350px;
+    margin: 20px 20px 20px 20px;
+    
+}
+.followers{
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+/****Footer*****/
+
+.footer{
+    margin-top: 100px;
+    background: black;
+    text-align: center;
+    color: white;
+    height: 50vh;
+}
+.footer-title{
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: 400;
+}
